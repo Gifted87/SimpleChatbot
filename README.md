@@ -66,7 +66,7 @@ This AI chatbot aims to provide a user-friendly and efficient way to interact wi
    ```
 4. **Install frontend dependencies (optional):** If you have Node.js and npm, and you've made changes to the frontend code, you can install the frontend dependencies.  While this project doesn't currently have explicit frontend dependencies, this step might be relevant in the future if you add libraries like a JavaScript framework.
     ```bash
-    #  npm install  (If any package.json exists in the future)
+    #  npm install 
     ```
 
 ### Configuration
@@ -124,4 +124,4 @@ This project is licensed under the [MIT License](LICENSE).  You are free to use,
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact [Your Name] at [your_email@example.com].  (Replace with your contact information).
+If you have any questions or need further assistance, feel free to contact Gifted Braimah at braimahgifted@gmail.com. .
